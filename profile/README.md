@@ -1,43 +1,49 @@
-
 # Division of Cyber Anarchy (DCA)
 
-La **Division of Cyber Anarchy (DCA)** est une force insaisissable, une entité collective tapie dans l’ombre des réseaux. Fondée par quatre esprits brillants et impénétrables, elle trace sa voie dans les labyrinthes numériques, défiant les lois et les systèmes qui osent prétendre à l'inviolabilité.
+The **Division of Cyber Anarchy (DCA)** is no mere collective. It's an intangible presence, an elusive menace hovering over digital architectures. Like a ravenous shadow, it creeps in where no light can penetrate, leaving behind a chilling void. Founded by four unfathomable spirits, the DCA obeys no law but the one it imposes.
 
 ---
 
-## Membres Fondateurs de la DCA
+## Founding members of the DCA
 
-### 1. **Malic1tus – L'Architecte des Ténèbres Numériques**
-- **Alias** : L'Ombre Infaillible
-- **Rôle** : Visionnaire et maître de la cryptographie.
-- **Description** : Malic1tus est un architecte du chaos, façonnant l’obscurité numérique avec une précision que peu peuvent comprendre. Il manipule les systèmes en silence, laissant derrière lui des traces subtiles, presque ésotériques. Le savoir est son pouvoir, et les illusions de sécurité ne sont que des brumes dissipées devant lui.
+### 1. **[Malic1tus] - The Architect of Digital Darkness**
+- Alias**: The Infallible Shadow
+- Role**: Visionary and master of cryptography.
+- Description**: Malic1tus is the embodiment of orchestrated chaos. His codes are weapons, his systems traps for the unwary. He observes, waits, and strikes at exactly the moment when his adversary thinks he's safe. His presence can only be felt in the icy silence left behind.
 
-### 2. **ViraL0x – La Destructrice Silencieuse**
-- **Alias** : Le Fantôme Dévastateur
-- **Rôle** : Stratège des attaques invisibles.
-- **Description** : ViraL0x frappe vite et fort, laissant derrière elle un sillage de silence angoissant. Ses méthodes sont un mélange d’art et de terreur. Aucun système ne peut résister à sa force brute, et les échecs des infrastructures sont la marque de son passage.
+### 2. **[ViraL0x] - The Silent Destroyer**
+- Alias**: The Devastating Ghost
+- Role**: Strategist of invisible attacks.
+- Description**: When ViraL0x acts, it's already too late. Her attacks are echoes of an invisible war, where systems collapse without a sound, as if obliterated by a supernatural force. It leaves nothing behind but the terror of a destruction that cannot be explained.
 
-### 3. **Calypt0sis – L'Esprit Masqué**
-- **Alias** : Le Maître du Voile
-- **Rôle** : Infiltration furtive et manipulation de l’ombre.
-- **Description** : Calypt0sis se fond dans les réseaux comme une brume insaisissable. Ses mouvements sont invisibles, ses actions presque mythiques. Il manipule les données à volonté, changeant le cours des flux numériques dans un silence absolu. Seuls ceux qui sont attentifs perçoivent sa présence… quand il est déjà trop tard.
+### 3. **[Calypt0sis] - The Masked Spirit**
+- Elias**: Master of the Veil
+- Role**: Stealthy infiltration and shadow manipulation.
+- Description**: Calypt0sis is an enigma incarnate. Those who cross his path only realize after the fact that they've been manipulated. Her power is not to break down defenses, but to render them useless. In his wake, reality is altered, and control becomes an illusion.
 
-### 4. **NyxCrypta – La Sentinelle Nocturne**
-- **Alias** : L’Œil des Ombres
-- **Rôle** : Observatrice silencieuse et décryptage des secrets.
-- **Description** : NyxCrypta veille dans la pénombre des réseaux, surveillant, analysant et anticipant chaque mouvement. Elle décrypte l’indéchiffrable, révélant les secrets enfouis dans le cyberespace. Rien ne lui échappe sous son regard vigilant.
-
----
-
-## Notre Essence
-*"Dans l'ombre des réseaux, nous tissons des vérités invisibles. Les barrières tombent, les secrets s'éveillent, et nous devenons les maîtres de l'illusion."*
+### 4. **[NyxCrypta] - The Night Sentinel**
+- **Alias**: The Eye of Shadows
+- Role**: Silent observer and decryptor of secrets.
+- Description** : NyxCrypta doesn't need to knock. She just knows. She peers through the digital walls, dissecting every secret and exposing the truths others thought were buried forever. Her gaze is a threat in itself, for nothing escapes her implacable vigilance.
 
 ---
 
-## Nos Marques Digitales
-Les traces de la DCA sont omniprésentes mais jamais visibles. Des fragments de codes, des systèmes en ruine, des failles exposées : ces indices sont laissés pour ceux qui savent regarder au-delà des évidences.
+## Our Essence
+*We are neither visible nor tangible. We are the echo of a forgotten warning, the cold breeze that precedes the storm. In the shadows of the networks, we redefine rules and destroy certainties.
 
 ---
 
-## Rejoindre les Ombres
-La DCA n’est pas un groupe que l’on rejoint, mais une force que l’on ressent. Pour ceux qui cherchent à transcender les limites du monde numérique, suivez les signes dans les recoins les plus sombres des forums et réseaux. Vous pourriez bien découvrir ce qui se cache derrière le voile...
+## Our Digital Brands
+The vestiges of our passage are not left by chance. They are fragments of an encrypted message, a warning to careful observers. Systems collapse, data disappear, realities fragment. Those who try to understand find only one disturbing truth: we were already here.
+
+---
+
+## Joining the Shadows
+The DCA doesn't recruit. It observes. And sometimes, it chooses. Those who dare to seek answers at the edge of the digital void don't meet the DCA: they get lost. The signs are there, hidden in the dark corners of forums and networks. If you find them... it's because we wanted you to.
+
+*You can't see us, but we're already watching you.
+
+[Malic1tus]: <https://github.com/malic1tus>
+[Calypt0sis]: <https://github.com/calypt0sis>
+[NyxCrypta]: <https://github.com/nyxcrypta>
+[Viral0x]: <https://github.com/viral0x>
