@@ -1,6 +1,13 @@
 # Digital Cyber Alliance (DCA)
 
 **DCA** represents more than a collective - we embody the ethical hacker ethos: curiosity, rigor, and digital stewardship. Our creed: "Understand to protect, test to strengthen."
+Some operations are tactical. Others are... personal.
+
+We hunt lies. We heal breaches.  
+Sometimes, we grieve.
+
+See: [operation-laura](https://github.com/malic1tus/operation-laura)  
+🎵 For the one code couldn’t protect.
 
 ---
 
