@@ -1,4 +1,4 @@
-# Digital Cyber Alliance (DCA)
+# Division of Cyber Anarchy (DCA)
 
 **DCA** represents more than a collective - we embody the ethical hacker ethos: curiosity, rigor, and digital stewardship. Our creed: "Understand to protect, test to strengthen."
 Some operations are tactical. Others are... personal.
